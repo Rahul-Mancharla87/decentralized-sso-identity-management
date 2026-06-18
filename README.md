@@ -78,4 +78,4 @@ This project implements a blockchain-based Identity and Access Management (IAM) 
 
 ## Author
 
-Rahul Mancharla
+**Rahul Mancharla**
